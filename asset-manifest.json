@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fanfiction-site/static/css/main.93a0497a.css",
+    "main.js": "/fanfiction-site/static/js/main.bb754dde.js",
+    "index.html": "/fanfiction-site/index.html",
+    "main.93a0497a.css.map": "/fanfiction-site/static/css/main.93a0497a.css.map",
+    "main.bb754dde.js.map": "/fanfiction-site/static/js/main.bb754dde.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93a0497a.css",
+    "static/js/main.bb754dde.js"
+  ]
+}
